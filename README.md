@@ -2,6 +2,8 @@
 
 The Rev-Sticker is a Python script designed to automate the process of resizing images for creating stickers in Telegram. With this script, you can easily resize a batch of images to the required dimensions for Telegram stickers, saving you time and effort.
 
+![](https://telegram.org/file/464001776/1/OT3p5F-BpWc.201999/cf29b6606b9abd380a)
+
 ## ✨ Features:
 
 Automatically resizes images for Telegram stickers.
@@ -35,5 +37,5 @@ Simple and easy-to-use interface.
    python3 resize.py
 
 
-# License 📄
-This script is licensed under the MIT License. Feel free to modify and distribute it as needed.
+# 📄 License
+This project is licensed under the MIT License.
