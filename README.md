@@ -35,7 +35,5 @@ Simple and easy-to-use interface.
 
    ```bash
    python3 resize.py
-
-
 # 📄 License
 This project is licensed under the MIT License.
